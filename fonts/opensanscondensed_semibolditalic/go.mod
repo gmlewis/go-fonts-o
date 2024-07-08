@@ -2,7 +2,7 @@ module github.com/gmlewis/go-fonts-o/fonts/opensanscondensed_semibolditalic
 
 go 1.22.4
 
-require github.com/gmlewis/go-fonts v0.18.0
+require github.com/gmlewis/go-fonts v0.19.0
 
 require (
 	github.com/fogleman/gg v1.3.0 // indirect
@@ -14,4 +14,4 @@ require (
 	google.golang.org/protobuf v1.34.2 // indirect
 )
 
-replace github.com/gmlewis/go-fonts v0.18.0 => ../../../go-fonts/
+replace github.com/gmlewis/go-fonts v0.19.0 => ../../../go-fonts/
